@@ -1,0 +1,6 @@
+c:\users\parowski\documents\visual studio 2013\Projects\BugPress\BugPress\bin\BugPress.dll.config
+c:\users\parowski\documents\visual studio 2013\Projects\BugPress\BugPress\bin\BugPress.dll
+c:\users\parowski\documents\visual studio 2013\Projects\BugPress\BugPress\bin\BugPress.pdb
+c:\users\parowski\documents\visual studio 2013\Projects\BugPress\BugPress\obj\Debug\BugPress.csprojResolveAssemblyReference.cache
+c:\users\parowski\documents\visual studio 2013\Projects\BugPress\BugPress\obj\Debug\BugPress.dll
+c:\users\parowski\documents\visual studio 2013\Projects\BugPress\BugPress\obj\Debug\BugPress.pdb

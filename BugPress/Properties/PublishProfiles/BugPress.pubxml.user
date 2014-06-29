@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este arquivo é usado pelo processo empacotar/publicar do seu projeto Web. É possível personalizar o comportamento desse processo
+ao editar esse arquivo MSBuild. Para saber mais sobre isso, acesse http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Parowski\Documents\BugPress</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="adm/adm.Master">
+      <publishTime>06/27/2014 00:59:52</publishTime>
+    </File>
+    <File Include="adm/css/bootstrap.css">
+      <publishTime>04/30/2014 13:31:16</publishTime>
+    </File>
+    <File Include="adm/css/custom.css">
+      <publishTime>01/05/2014 17:23:30</publishTime>
+    </File>
+    <File Include="adm/css/font-awesome.css">
+      <publishTime>06/25/2014 03:26:07</publishTime>
+    </File>
+    <File Include="adm/fonts/fontawesome-webfontba72.eot">
+      <publishTime>03/28/2014 18:37:40</publishTime>
+    </File>
+    <File Include="adm/fonts/fontawesome-webfontba72.svg">
+      <publishTime>03/28/2014 18:37:48</publishTime>
+    </File>
+    <File Include="adm/fonts/fontawesome-webfontba72.ttf">
+      <publishTime>03/28/2014 18:37:50</publishTime>
+    </File>
+    <File Include="adm/fonts/fontawesome-webfontba72.woff">
+      <publishTime>03/28/2014 18:38:06</publishTime>
+    </File>
+    <File Include="adm/fonts/fontawesome-webfontd41d.eot">
+      <publishTime>03/28/2014 18:37:40</publishTime>
+    </File>
+    <File Include="adm/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/28/2014 18:42:28</publishTime>
+    </File>
+    <File Include="adm/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/28/2014 18:42:34</publishTime>
+    </File>
+    <File Include="adm/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/28/2014 18:42:40</publishTime>
+    </File>
+    <File Include="adm/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/28/2014 18:42:48</publishTime>
+    </File>
+    <File Include="adm/fonts/glyphicons-halflings-regulard41d.eot">
+      <publishTime>03/28/2014 18:42:28</publishTime>
+    </File>
+    <File Include="adm/img/find_user.png">
+      <publishTime>01/05/2014 17:19:36</publishTime>
+    </File>
+    <File Include="adm/index.aspx">
+      <publishTime>06/25/2014 12:13:42</publishTime>
+    </File>
+    <File Include="adm/js/bootbox.min.js">
+      <publishTime>06/27/2014 00:44:12</publishTime>
+    </File>
+    <File Include="adm/js/bootstrap.min.js">
+      <publishTime>03/28/2014 18:45:06</publishTime>
+    </File>
+    <File Include="adm/js/confirma.js">
+      <publishTime>06/27/2014 00:59:47</publishTime>
+    </File>
+    <File Include="adm/js/custom.js">
+      <publishTime>01/05/2014 17:44:00</publishTime>
+    </File>
+    <File Include="adm/js/dataTables.bootstrap.css">
+      <publishTime>01/05/2014 09:06:56</publishTime>
+    </File>
+    <File Include="adm/js/dataTables.bootstrap.js">
+      <publishTime>01/05/2014 09:06:56</publishTime>
+    </File>
+    <File Include="adm/js/jquery-1.10.2.js">
+      <publishTime>03/28/2014 18:46:06</publishTime>
+    </File>
+    <File Include="adm/js/jquery.dataTables.js">
+      <publishTime>01/05/2014 09:06:56</publishTime>
+    </File>
+    <File Include="adm/js/jquery.metisMenu.js">
+      <publishTime>03/28/2014 19:03:56</publishTime>
+    </File>
+    <File Include="adm/js/morris-0.4.3.min.css">
+      <publishTime>01/05/2014 09:06:56</publishTime>
+    </File>
+    <File Include="adm/js/morris.js">
+      <publishTime>01/05/2014 09:06:56</publishTime>
+    </File>
+    <File Include="adm/js/raphael-2.1.0.min.js">
+      <publishTime>01/05/2014 09:06:56</publishTime>
+    </File>
+    <File Include="adm/pgNoticia.aspx">
+      <publishTime>06/28/2014 23:45:45</publishTime>
+    </File>
+    <File Include="adm/pgTipoNoticia.aspx">
+      <publishTime>06/28/2014 23:47:26</publishTime>
+    </File>
+    <File Include="adm/pgUsuario.aspx">
+      <publishTime>06/28/2014 23:47:39</publishTime>
+    </File>
+    <File Include="bin/BugPress.dll">
+      <publishTime>06/28/2014 23:48:23</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>06/25/2014 17:22:25</publishTime>
+    </File>
+    <File Include="css/styles.css">
+      <publishTime>06/25/2014 06:41:54</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/28/2014 18:42:28</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/28/2014 18:42:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/28/2014 18:42:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/28/2014 18:42:48</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regulard41d.eot">
+      <publishTime>03/28/2014 18:42:28</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>06/28/2014 23:39:29</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>06/25/2014 06:41:54</publishTime>
+    </File>
+    <File Include="js/scripts.js">
+      <publishTime>06/25/2014 06:41:54</publishTime>
+    </File>
+    <File Include="lerNoticia.aspx">
+      <publishTime>06/28/2014 00:48:39</publishTime>
+    </File>
+    <File Include="login/css/bootstrap.min.css">
+      <publishTime>06/25/2014 17:26:43</publishTime>
+    </File>
+    <File Include="login/css/styles.css">
+      <publishTime>06/25/2014 06:42:30</publishTime>
+    </File>
+    <File Include="login/index.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="login/js/bootstrap.min.js">
+      <publishTime>06/25/2014 06:42:30</publishTime>
+    </File>
+    <File Include="login/js/scripts.js">
+      <publishTime>06/25/2014 06:42:30</publishTime>
+    </File>
+    <File Include="view.Master">
+      <publishTime>06/28/2014 23:52:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/28/2014 00:38:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
