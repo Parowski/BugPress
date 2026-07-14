@@ -1,0 +1,36 @@
+# === Antigravity / AI Agent / Vibe Coding Files ===
+.agents/
+.temp_ag_kit/
+.gemini/
+*.log
+
+# === Visual Studio & .NET Build Files ===
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+*.dbmdl
+*.jfm
+
+# === Node / Next.js Build Files ===
+node_modules/
+.next/
+out/
+.env*.local
+.vercel
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+.stylelintcache
+
+# === OS & IDE general ===
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
