@@ -1,6 +1,6 @@
 # BugPress 2026 🚀
 
-O **BugPress** é um portal de notícias moderno e de alta performance, atualizado para as tendências de mercado de 2026. A antiga aplicação baseada em ASP.NET Web Forms e SQL Server foi completamente migrada para uma arquitetura desacoplada e escalável que atende aos rigorosos padrões de SEO e GEO (Generative Engine Optimization).
+O **BugPress** é um portal de notícias moderno e de alta performance, atualizado para as tendências de mercado de 2026. A antiga aplicação baseada em ASP.NET Web Forms e SQL Server foi completamente migrada para uma arquitetura desacoplada e escalável que atende aos rigorosos padrões de otimização e mecanismos de busca (SEO).
 
 ---
 
@@ -25,18 +25,18 @@ Desenvolvido em **ASP.NET Core 8+ Web API** utilizando as melhores práticas mod
 Interface desenvolvida com **Next.js (App Router)** e estilizada sob a estética **Technical Brutalism / Dark Raw**:
 - **Design Premium**: Visual refinado utilizando Tailwind CSS v4, tipografia Outfit/Inter e carregamento dinâmico.
 - **Área Administrativa**: Dashboard brutalista completo para gerenciamento (CRUD) de notícias, categorias e administradores.
-- **SSR/SSG**: Renderização rápida no lado do servidor para garantir que robôs de busca e assistentes de inteligência artificial capturem o conteúdo de forma instantânea.
+- **SSR/SSG**: Renderização rápida no lado do servidor para garantir que robôs de busca e indexadores capturem o conteúdo de forma instantânea e eficiente.
 
 ---
 
-## 🌐 Recursos de SEO e GEO (Otimização para IAs)
+## 🌐 Recursos de SEO Avançado e Semântico
 
-O BugPress 2026 foi otimizado nativamente para motores de busca tradicionais (Google) e novos buscadores gerativos baseados em IA (Perplexity, ChatGPT, Gemini):
+O BugPress 2026 foi otimizado nativamente para indexação em motores de busca modernos e buscadores semânticos de última geração:
 - **JSON-LD Schema.org**: Injeção estruturada automática dos schemas `NewsArticle` e `Organization` nas notícias e página inicial.
 - **URLs Amigáveis**: Estrutura dinâmica de leitura de notícias baseada em `/noticia/{slug}`.
 - **Sitemap Dinâmico**: Geração em tempo real do arquivo `/sitemap.xml` consumindo os artigos da API de forma resiliente (com fallback para páginas estáticas se a API estiver offline).
 - **Robots.txt Dinâmico**: Regras inteligentes em `/robots.txt` desativando a indexação do painel admin (`/admin/*`).
-- **SEO/GEO Local**: Tags de geolocalização física integradas (`geo.region`, `geo.position` centralizados em São Paulo, SP).
+- **SEO Local e Geográfico**: Tags de geolocalização física integradas (`geo.region`, `geo.position` centralizados em São Paulo, SP).
 
 ---
 
@@ -101,6 +101,6 @@ O BugPress 2026 foi otimizado nativamente para motores de busca tradicionais (Go
 ---
 
 ## 🛡️ Segurança e Testes
-Durante o ciclo de desenvolvimento, o código foi validado por meio dos scripts integrados do **Antigravity Kit**:
+Durante o ciclo de desenvolvimento, o código foi auditado por meio de scripts de verificação estática do projeto:
 - Varredura de segurança contra brechas estáticas e vazamentos: `security_scan.py`
 - Linter de integridade do código: `lint_runner.py`
