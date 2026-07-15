@@ -48,9 +48,6 @@ export const metadata: Metadata = {
     "geo.region": "BR-SP",
     "geo.placename": "São Paulo",
     "ICBM": "-23.55052, -46.633308",
-    // Otimização para Motores Generativos (GEO) e Crawlers de IA
-    "ai-agent-index": "index, follow",
-    "ai-agent-knowledge-graph": "enabled",
     "dc.publisher": "BugPress Publicações",
   },
 };
