@@ -1,8 +1,12 @@
-# === Antigravity / AI Agent / Vibe Coding Files ===
+# === Workspace / Local Assistant Files ===
 .agents/
 .temp_ag_kit/
 .gemini/
 *.log
+AGENTS.md
+**/AGENTS.md
+CLAUDE.md
+**/CLAUDE.md
 
 # === Visual Studio & .NET Build Files ===
 .vs/
